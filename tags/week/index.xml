@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>zhiqizhiqi</title>
-    <link>http://zhiqizhiqi.github.io/</link>
-    <description>Recent content on zhiqizhiqi</description>
+    <title>Week on zhiqizhiqi</title>
+    <link>http://zhiqizhiqi.github.io/tags/week/</link>
+    <description>Recent content in Week on zhiqizhiqi</description>
     <image>
       <title>zhiqizhiqi</title>
       <url>http://zhiqizhiqi.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Feb 2023 11:30:03 +0000</lastBuildDate><atom:link href="http://zhiqizhiqi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Feb 2023 11:30:03 +0000</lastBuildDate><atom:link href="http://zhiqizhiqi.github.io/tags/week/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Week-AI-00：ToolFormer</title>
       <link>http://zhiqizhiqi.github.io/posts/weekly-230224/</link>
@@ -20,7 +20,6 @@
       <guid>http://zhiqizhiqi.github.io/posts/weekly-230224/</guid>
       <description>AI 进展跟踪：ToolFormer</description>
     </item>
-    
     
   </channel>
 </rss>

@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Feb 2023 11:30:03 +0000</lastBuildDate><atom:link href="http://zhiqizhiqi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Feb 2023 15:30:03 +0000</lastBuildDate><atom:link href="http://zhiqizhiqi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week-AI-01：LLaMA</title>
+      <link>http://zhiqizhiqi.github.io/posts/weekly-230304/</link>
+      <pubDate>Tue, 28 Feb 2023 15:30:03 +0000</pubDate>
+      
+      <guid>http://zhiqizhiqi.github.io/posts/weekly-230304/</guid>
+      <description>todo</description>
+    </item>
+    
     <item>
       <title>Week-AI-00：ToolFormer; ControlNet</title>
       <link>http://zhiqizhiqi.github.io/posts/weekly-230224/</link>

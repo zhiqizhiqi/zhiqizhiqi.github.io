@@ -5,4 +5,6 @@ public/categories/index.xml
 public/posts/index.xml
 public/tags/index.xml
 public/tags/first/index.xml
+public/**
 .hugo_build.lock
+public/tags/llm/index.xml

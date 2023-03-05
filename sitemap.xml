@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://zhiqizhiqi.github.io/posts/</loc>
-    <lastmod>2023-02-28T15:30:03+00:00</lastmod>
+    <lastmod>2023-03-04T11:30:03+00:00</lastmod>
     <priority>0</priority>
+  </url><url>
+    <loc>http://zhiqizhiqi.github.io/posts/blog/</loc>
+    <lastmod>2023-03-04T11:30:03+00:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://zhiqizhiqi.github.io/tags/llm/</loc>
+    <lastmod>2023-03-04T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://zhiqizhiqi.github.io/tags/</loc>
+    <lastmod>2023-03-04T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://zhiqizhiqi.github.io/</loc>
+    <lastmod>2023-03-04T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://zhiqizhiqi.github.io/posts/blog/230301-chinese-llm/230301-chinese-llm/</loc>
+    <lastmod>2023-03-04T11:30:03+00:00</lastmod>
   </url><url>
     <loc>http://zhiqizhiqi.github.io/posts/newletters/</loc>
     <lastmod>2023-02-28T15:30:03+00:00</lastmod>
     <priority>0</priority>
-  </url><url>
-    <loc>http://zhiqizhiqi.github.io/tags/</loc>
-    <lastmod>2023-02-28T15:30:03+00:00</lastmod>
   </url><url>
     <loc>http://zhiqizhiqi.github.io/tags/week/</loc>
     <lastmod>2023-02-28T15:30:03+00:00</lastmod>
   </url><url>
     <loc>http://zhiqizhiqi.github.io/posts/newletters/weekly-230304/</loc>
     <lastmod>2023-02-28T15:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://zhiqizhiqi.github.io/</loc>
-    <lastmod>2023-02-28T15:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://zhiqizhiqi.github.io/posts/blog/</loc>
-    <lastmod>2023-02-28T11:30:03+00:00</lastmod>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://zhiqizhiqi.github.io/tags/llm/</loc>
-    <lastmod>2023-02-28T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://zhiqizhiqi.github.io/posts/blog/230301-chinese-llm/230301-chinese-llm/</loc>
-    <lastmod>2023-02-28T11:30:03+00:00</lastmod>
   </url><url>
     <loc>http://zhiqizhiqi.github.io/posts/newletters/weekly-230224/</loc>
     <lastmod>2023-02-24T11:30:03+00:00</lastmod>

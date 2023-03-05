@@ -1,6 +1,6 @@
 ---
 title: "中文 LLM 之路(1/2)"
-date: 2023-02-28T11:30:03+00:00
+date: 2023-03-04T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["LLM"]

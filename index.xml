@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Mar 2023 11:30:03 +0000</lastBuildDate><atom:link href="http://zhiqizhiqi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 May 2023 11:30:03 +0000</lastBuildDate><atom:link href="http://zhiqizhiqi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week-AI-03：#</title>
+      <link>http://zhiqizhiqi.github.io/posts/newletters/weekly-230523/</link>
+      <pubDate>Mon, 22 May 2023 11:30:03 +0000</pubDate>
+      
+      <guid>http://zhiqizhiqi.github.io/posts/newletters/weekly-230523/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
     <item>
       <title>研发体系</title>
       <link>http://zhiqizhiqi.github.io/posts/blog/230324-rdsys/</link>
@@ -22,7 +31,7 @@
     </item>
     
     <item>
-      <title>Week-AI-02：Pytorch2.0/GPT-4/USM/Vid2Seq/ART/LERF</title>
+      <title>Week-AI-02：Pytorch2.0/USM</title>
       <link>http://zhiqizhiqi.github.io/posts/newletters/weekly-230321/</link>
       <pubDate>Mon, 20 Mar 2023 11:30:03 +0000</pubDate>
       

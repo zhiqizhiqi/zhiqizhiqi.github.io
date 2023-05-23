@@ -1,0 +1,1 @@
+hugo new -k post posts/newletters/weekly-230523.md
